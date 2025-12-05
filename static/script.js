@@ -3,7 +3,7 @@
 // =========================
 
 // CONFIG
-const API_BASE = "https://ledax-uc.onrender.com/";
+const API_BASE = "https://ledax-uc.onrender.com";
 const ENDPOINT_REDES = `${API_BASE}/unidades/redes`;
 const ENDPOINT_ALL = `${API_BASE}/unidades/all`;
 const GEOJSON_PATH = "/static/brasil_estados.geojson";
@@ -301,4 +301,5 @@ window.addEventListener('load', () => {
 // =========================
 // FIM
 // =========================
+
 
