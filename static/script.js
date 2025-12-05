@@ -24,83 +24,11 @@ const REDE_COLORS = {
   "DEFAULT": '#2ca02c'
 };
 
-// NOVO: Para guardar referência das camadas dos representantes
-const camadaRepAtiva = {};
-
-// MAPA DE COBERTURA DOS REPRESENTANTES (UFs)
-const coberturaRepresentante = {
-  "RENATO PEREIRA": ["MT"],
-  "RODRIGO LISBOA": ["MG"],
-  "DANIEL DE EQUIP.": ["PE", "RN"],
-  "CLECIO SALVIANO": ["SP"],
-  "HAMILTON MORAES": ["GO", "MS"],
-  "MARCOS BARIANI": ["SP", "AL"],
-  "ALEXANDRE CÂND.": ["AL", "DF"],
-  "EDSEU MARQUES": ["TO", "PA"],
-  "MAURO FOLLMANN": ["PA"],
-  "MANOEL AFONSO": ["AC", "RO"],
-  "JOSÉ LOBO": ["BA"],
-  "PEDRO AMORIM": ["RJ"],
-  "CRYSTIANO SILVA": ["AM"],
-  "ERNESTO (LLAMPE)": ["SC", "PR"],
-  "SEM COBERTURA": "RESTO"
-};
-
-// CORES DE CADA REPRESENTANTE
-const coresRepresentante = {
-  "RENATO PEREIRA": "rgba(255, 105, 180, 0.7)",
-  "RODRIGO LISBOA": "rgba(0, 191, 255, 0.7)",
-  "DANIEL DE EQUIP.": "rgba(255, 69, 0, 0.7)",
-  "CLECIO SALVIANO": "rgba(147, 112, 219, 0.7)",
-  "HAMILTON MORAES": "rgba(255, 215, 0, 0.7)",
-  "MARCOS BARIANI": "rgba(0, 255, 255, 0.7)",
-  "ALEXANDRE CÂND.": "rgba(255, 165, 0, 0.7)",
-  "EDSEU MARQUES": "rgba(128, 0, 128, 0.7)",
-  "MAURO FOLLMANN": "rgba(255, 0, 0, 0.7)",
-  "MANOEL AFONSO": "rgba(0, 128, 0, 0.7)",
-  "JOSÉ LOBO": "rgba(255, 140, 0, 0.7)",
-  "PEDRO AMORIM": "rgba(70, 130, 180, 0.7)",
-  "CRYSTIANO SILVA": "rgba(0, 0, 255, 0.7)",
-  "ERNESTO (LLAMPE)": "rgba(0, 128, 15, 0.58)",
-  "SEM COBERTURA": "rgba(180, 180, 180, 0.55)"
-};
-
-// Cor quando dois reps cobrem o mesmo estado
-const COR_SOBREPOSICAO = "rgba(255, 102, 0, 0.8)";
-
 // -------------------------
 // UTILITÁRIOS
 // -------------------------
 function safeText(s){ return (s || '').toString(); }
 function normalizeString(s){ return safeText(s).trim().toLowerCase(); }
-
-function renderCoberturaRepresentantes() {
-    const cont = document.getElementById("cobertura-legend");
-    cont.innerHTML = "";
-
-    Object.keys(coberturaRepresentante).forEach(rep => {
-        const safeId = `rep-${rep.replace(/\s+/g, '-')}`;
-        const color = coresRepresentante[rep] || "#999";
-
-        const row = document.createElement("div");
-        row.className = "checkbox-row";
-
-        row.innerHTML = `
-            <input type="checkbox" id="${safeId}" value="${rep}">
-            <label for="${safeId}">
-                <span style="display:inline-block;width:16px;height:16px;background:${color};border-radius:2px;margin-right:6px;"></span>
-                ${rep}
-            </label>
-        `;
-
-        cont.appendChild(row);
-
-        document.getElementById(safeId).addEventListener("change", () => {
-            aplicarCoberturaRep(rep);
-        });
-    });
-}
-
 
 // -------------------------
 // RENDERIZAÇÃO DE FILTROS
