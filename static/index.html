@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>LEDAX - Mapeamento de Redes (API)</title>
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="styles.css" />
 </head>
-
 <body>
     <div class="topbar">
         <div class="title-wrap">
@@ -26,93 +22,90 @@
         </button>
     </div>
 
-    <div class="sidebar" id="sidebar">
+<div class="sidebar" id="sidebar">
 
-        <h2>Filtros</h2>
+    <h2>Filtros</h2>
 
-        <!-- VISUALIZAÇÃO -->
-        <div class="filter-group">
-            <h3>Visualização</h3>
-            <div class="form-group">
-                <div class="checkbox-row">
-                    <input type="checkbox" id="toggleClusters" checked>
-                    <label for="toggleClusters">Agrupar Lojas (Clusters)</label>
-                </div>
-
+    <!-- VISUALIZAÇÃO -->
+    <div class="filter-group">
+        <h3>Visualização</h3>
+        <div class="form-group">
+            <div class="checkbox-row">
+                <input type="checkbox" id="toggleClusters" checked>
+                <label for="toggleClusters">Agrupar Lojas (Clusters)</label>
             </div>
+
         </div>
-
-
-        <hr />
-
-        <!-- REDES -->
-        <div class="filter-group">
-            <h3>Redes</h3>
-            <div class="form-group checkbox-group" id="filtroRedeContainer">
-                <div class="checkbox-row"><label>Carregando redes...</label></div>
-            </div>
-        </div>
-
-        <!-- CIDADES -->
-        <div class="filter-group">
-            <h3>Cidades</h3>
-            <div class="form-group">
-                <select id="selectCidade">
-                    <option value="Todas">Todas</option>
-                </select>
-            </div>
-        </div>
-
-        <!-- ESTADOS -->
-        <div class="filter-group">
-            <h3>Estados</h3>
-            <div class="form-group">
-                <select id="selectEstado">
-                    <option value="Todos">Todos</option>
-                </select>
-            </div>
-        </div>
-
-        <!-- CNPJ -->
-        <div class="filter-group">
-            <h3>CNPJ / Documento</h3>
-            <div class="form-group">
-                <input type="text" id="inputCNPJ" placeholder="Buscar CNPJ..." />
-            </div>
-        </div>
-
-        <!-- NOME -->
-        <div class="filter-group">
-            <h3>Busca por Nome</h3>
-            <div class="form-group">
-                <input type="text" id="inputNome" placeholder="Buscar loja..." />
-            </div>
-        </div>
-
-        <!-- ORDENAR -->
-        <div class="filter-group">
-            <h3>Ordenar</h3>
-            <div class="form-group">
-                <select id="selectOrdenar">
-                    <option value="nome_az">Nome (A → Z)</option>
-                    <option value="nome_za">Nome (Z → A)</option>
-                    <option value="rede_az">Rede (A → Z)</option>
-                    <option value="rede_za">Rede (Z → A)</option>
-                </select>
-            </div>
-        </div>
-
-        <!-- LEGENDA -->
-        <div class="legend">
-            <div class="legend-title">Cores das Redes (Legenda)</div>
-            <div id="redes-legend" class="legend-bar"></div>
-        </div>
-
-        <div id="loading-status" style="margin-top: 15px; font-size: 13px; color: var(--muted);">
-            Aguardando carregamento de dados...
-        </div>
-
     </div>
+
+    <!-- REDES -->
+    <div class="filter-group">
+        <h3>Redes</h3>
+        <div class="form-group checkbox-group" id="filtroRedeContainer">
+            <div class="checkbox-row"><label>Carregando redes...</label></div>
+        </div>
+    </div>
+
+    <!-- CIDADES -->
+    <div class="filter-group">
+        <h3>Cidades</h3>
+        <div class="form-group">
+            <select id="selectCidade">
+                <option value="Todas">Todas</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- ESTADOS -->
+    <div class="filter-group">
+        <h3>Estados</h3>
+        <div class="form-group">
+            <select id="selectEstado">
+                <option value="Todos">Todos</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- CNPJ -->
+    <div class="filter-group">
+        <h3>CNPJ / Documento</h3>
+        <div class="form-group">
+            <input type="text" id="inputCNPJ" placeholder="Buscar CNPJ..." />
+        </div>
+    </div>
+
+    <!-- NOME -->
+    <div class="filter-group">
+        <h3>Busca por Nome</h3>
+        <div class="form-group">
+            <input type="text" id="inputNome" placeholder="Buscar loja..." />
+        </div>
+    </div>
+
+    <!-- ORDENAR -->
+    <div class="filter-group">
+        <h3>Ordenar</h3>
+        <div class="form-group">
+            <select id="selectOrdenar">
+                <option value="nome_az">Nome (A → Z)</option>
+                <option value="nome_za">Nome (Z → A)</option>
+                <option value="rede_az">Rede (A → Z)</option>
+                <option value="rede_za">Rede (Z → A)</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- LEGENDA -->
+    <div class="legend">
+        <div class="legend-title">Cores das Redes (Legenda)</div>
+        <div id="redes-legend" class="legend-bar"></div>
+    </div>
+
+    <div id="loading-status" style="margin-top: 15px; font-size: 13px; color: var(--muted);">
+        Aguardando carregamento de dados...
+    </div>
+
+</div>
 
 
     <div id="map" class="map"></div>
@@ -121,5 +114,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
     <script src="script.js"></script>
 </body>
-
 </html>
