@@ -1,0 +1,291 @@
+/* =========================================================
+   RESET E BASE
+========================================================= */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+:root {
+    --sidebar-w: 360px;
+    --accent: #0f62fe;
+    --accent-dark: #0b50d5;
+    --muted: #6b7280;
+    --bg: #f7f8fa;
+    --card-bg: #ffffff;
+    --glass: rgba(255, 255, 255, 0.9);
+    --danger: #da1e28;
+    --shadow: rgba(0,0,0,0.08);
+}
+
+body {
+    background-color: var(--bg);
+    overflow: hidden;
+    height: 100vh;
+}
+
+
+
+/* =========================================================
+   TOPBAR
+========================================================= */
+.topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    background: linear-gradient(90deg, #ffffffE6, #0b5fa0E6);
+    border-bottom: 1px solid #0b7a95;
+    z-index: 1000;
+}
+
+.topbar .title-wrap {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
+}
+
+.topbar h1 {
+    font-size: 1.25rem;
+    color: #0d2138;
+}
+
+.topbar .subtitle {
+    font-size: 0.75rem;
+    color: #334155;
+    font-style: italic;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    font-size: 1.6rem;
+    cursor: pointer;
+    color: #0d2138;
+    padding: 8px;
+    border-radius: 6px;
+    transition: background-color 0.2s, transform 0.1s;
+}
+.icon-btn:hover {
+    background-color: rgba(0,0,0,0.06);
+}
+
+
+
+/* =========================================================
+   SIDEBAR
+========================================================= */
+.sidebar {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    bottom: 0;
+    width: var(--sidebar-w);
+    background-color: var(--card-bg);
+    overflow-y: auto;
+    padding: 18px;
+    box-shadow: 2px 0 6px var(--shadow);
+    z-index: 900;
+    transition: transform 0.3s ease-in-out;
+}
+
+.sidebar.collapsed {
+    transform: translateX(calc(var(--sidebar-w) * -1));
+}
+
+.sidebar h2 {
+    margin-bottom: 12px;
+    font-size: 1.4rem;
+    color: var(--accent);
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 6px;
+}
+
+
+
+/* =========================================================
+   GRUPOS DE FILTRO
+========================================================= */
+.filter-group {
+    margin: 18px 0;
+}
+
+.filter-group h3 {
+    font-size: 1rem;
+    color: #374151;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.form-group {
+    background: var(--bg);
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+/* CHECKBOX GRID */
+.checkbox-group {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+}
+
+.checkbox-row {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-row label {
+    margin-left: 8px;
+    font-size: 0.85rem;
+    color: #4b5563;
+    cursor: pointer;
+}
+
+.checkbox-row input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+
+
+/* =========================================================
+   BOTÕES
+========================================================= */
+.btn-row {
+    display: flex;
+    gap: 10px;
+    margin-top: 8px;
+}
+
+.btn-row button {
+    flex: 1;
+    padding: 10px 14px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+.btn-row button:active {
+    transform: scale(0.95);
+}
+
+.primary {
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    box-shadow: 0 2px 5px rgba(15, 98, 254, 0.35);
+}
+.primary:hover {
+    background-color: var(--accent-dark);
+}
+
+.ghost {
+    background: transparent;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+}
+.ghost:hover {
+    background-color: rgba(15, 98, 254, 0.06);
+}
+
+
+
+/* =========================================================
+   MAPA (LEAFLET)
+========================================================= */
+.map {
+    position: absolute;
+    top: 56px;
+    right: 0;
+    bottom: 0;
+    left: var(--sidebar-w);
+    transition: left 0.3s;
+}
+
+.sidebar.collapsed + .map {
+    left: 0;
+}
+
+
+
+/* MARCADORES */
+.custom-marker {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+}
+
+.custom-marker div {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.custom-marker:hover {
+    transform: scale(1.15);
+    opacity: 1;
+}
+
+
+
+/* POPUP */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    border-radius: 10px;
+}
+
+
+
+/* =========================================================
+   LEGENDA
+========================================================= */
+.legend {
+    margin-top: 24px;
+}
+
+.legend-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #374151;
+    border-bottom: 1px dashed #e5e7eb;
+    padding-bottom: 4px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+    font-size: 0.85rem;
+}
+
+.legend-color-box {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+
+
+/* =========================================================
+   MENSAGENS
+========================================================= */
+.text-danger {
+    color: var(--danger);
+    font-weight: 600;
+}

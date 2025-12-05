@@ -1,0 +1,11 @@
+# requirements.txt
+fastapi
+uvicorn
+uvicorn[standard]
+SQLAlchemy
+pandas
+openpyxl
+tqdm
+python-multipart
+python-dateutil
+geopy

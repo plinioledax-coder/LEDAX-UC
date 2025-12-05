@@ -1,0 +1,1093 @@
+{
+  "END_ORIGINAL::LO ESPACO ALFA 13, LIIMOEIRO, CAMACARI - BA, 42802-590": {
+    "lat": null,
+    "lon": null,
+    "query": "LO ESPACO ALFA 13, LIIMOEIRO, CAMACARI - BA, 42802-590",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA OTAVIO MANGABEIRA 56, LAMA PRETA, CAMACARI - BA, 42800-970": {
+    "lat": -12.7013463,
+    "lon": -38.3380323,
+    "query": "RUA OTAVIO MANGABEIRA 56, LAMA PRETA, CAMACARI - BA, 42800-970",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::TV 1 COVA DA GIA SN, SIMOES FILHO - BA, 43.700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "TV 1 COVA DA GIA SN, Simoes Filho - BA, 43.700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV SUL SN, PIACAVEIRA, CAMACARI - BA - 42849-999": {
+    "lat": null,
+    "lon": null,
+    "query": "AV SUL SN, PIACAVEIRA, CAMACARI - BA - 42849-999",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, LAURO DE FREITAS, BA, 42700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, Lauro de Freitas, BA, 42700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA CASCALHEIRA 0100, MACHADINHO, CAMACARI - BA, 42800-970": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA CASCALHEIRA 0100, MACHADINHO, CAMACARI - BA, 42800-970",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817": {
+    "lat": null,
+    "lon": null,
+    "query": "AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV ALIOMAR BALEEIRO 469, NOVA BRASILIA, SALVADOR - BAHIA, 41350-275": {
+    "lat": -12.9199243,
+    "lon": -38.3997429,
+    "query": "AV ALIOMAR BALEEIRO 469, NOVA BRASILIA, SALVADOR - BAHIA, 41350-275",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::ET CANABRAVA 2058, CANABRAVA, SIMOES FILHO - BA, 43.700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "ET CANABRAVA 2058, CANABRAVA, Simoes Filho - BA, 43.700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV BRASIL 99999, CENTRO-DIAS DAVILA, 42850-000": {
+    "lat": null,
+    "lon": null,
+    "query": "AV BRASIL 99999, CENTRO-DIAS DAVILA, 42850-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA EDMUNDO JOSE DOS REIS 7, ITINGA, 42700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA EDMUNDO JOSE DOS REIS 7, ITINGA, 42700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::ET CAMPINAS PIRAJA 2000, MARECHAL RONDON,  40388-000": {
+    "lat": null,
+    "lon": null,
+    "query": "ET CAMPINAS PIRAJA 2000, MARECHAL RONDON,  40388-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV RIO BANDEIRA 60, GRAVATA, 42800-970": {
+    "lat": -12.6932261,
+    "lon": -38.3375462,
+    "query": "AV RIO BANDEIRA 60, GRAVATA, 42800-970",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMACARI - BA, 42800-970": {
+    "lat": null,
+    "lon": null,
+    "query": "AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMACARI - BA, 42800-970",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::R. ARACI, 24 - QUADRA18 LOTE - PHOC II, CAMAÇARI - BA, 42805-080": {
+    "lat": null,
+    "lon": null,
+    "query": "R. Araci, 24 - QUADRA18 LOTE - Phoc II, Camaçari - BA, 42805-080",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::R. EDMUNDO JOSÉ DOS RÉIS, 7 - JARDIM DAS MARGARIDASLAURO DE FREITAS - BA, 42700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "R. Edmundo José dos Réis, 7 - Jardim das MargaridasLauro de Freitas - BA, 42700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::R. PERNAMBUCO, 97 - TANCREDO NEVESSALVADOR - BA, 41205-140": {
+    "lat": null,
+    "lon": null,
+    "query": "R. Pernambuco, 97 - Tancredo NevesSalvador - BA, 41205-140",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA GARIBALDI 9999, VILA DE ABRANTES, CAMAÇARI - BA, 42822-004": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA GARIBALDI 9999, VILA DE ABRANTES, Camaçari - BA, 42822-004",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV ALPHAVILLE 9999, ALPHAVILLE I, SALVADOR - BAHIA, 41701-015": {
+    "lat": -12.8289913,
+    "lon": -38.2727467,
+    "query": "AV ALPHAVILLE 9999, ALPHAVILLE I, SALVADOR - BAHIA, 41701-015",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::R. ARTUR GOMES DE CARVALHO, 246 - PITUBA, SALVADOR - BA, 41810-64": {
+    "lat": null,
+    "lon": null,
+    "query": "R. Artur Gomes de Carvalho, 246 - Pituba, Salvador - BA, 41810-64",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::ENDEREÇO: AV. SETE DE SETEMBRO, 1839 - VITÓRIA, SALVADOR - BA, 40080-002": {
+    "lat": null,
+    "lon": null,
+    "query": "Endereço: Av. Sete de Setembro, 1839 - Vitória, Salvador - BA, 40080-002",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA PIRATANCARA 9999, HORTO FLORESTAL, 40295-560": {
+    "lat": -12.998662,
+    "lon": -38.4876258,
+    "query": "RUA PIRATANCARA 9999, HORTO FLORESTAL, 40295-560",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA CONDE DE PORTO ALEGRE 241 A AP-1, SALVADOR - BA, 40330-200": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA CONDE DE PORTO ALEGRE 241 A AP-1, Salvador - BA, 40330-200",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV JORGE AMADO 980, IMBUI, SALVADOR - BA, 41740-630": {
+    "lat": -12.9694806,
+    "lon": -38.4356857,
+    "query": "AV JORGE AMADO 980, IMBUI, Salvador - BA, 41740-630",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV PAULO VI 1932 AP-1932, SALVADOR - BA, 41810-001": {
+    "lat": null,
+    "lon": null,
+    "query": "AV PAULO VI 1932 AP-1932, Salvador - BA, 41810-001",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV DORIVAL CAYMMI 107 --C, SN, ITAPUÃ, SALVADOR - BA, 41635-152": {
+    "lat": null,
+    "lon": null,
+    "query": "AV DORIVAL CAYMMI 107 --C, SN, ITAPUÃ, SALVADOR - BA, 41635-152",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV. MILTON SANTOS, 392 - ONDINA, SALVADOR - BA, 40170-110": {
+    "lat": -13.0037629,
+    "lon": -38.5078305,
+    "query": "Av. Milton Santos, 392 - Ondina, Salvador - BA, 40170-110",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, PARIPE, SALVADOR - BA, 40800-010": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, Paripe, Salvador - BA, 40800-010",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA AMAZONAS, 883, PITUBA, SALVADOR - BA, 41830-380": {
+    "lat": -13.0034354,
+    "lon": -38.4585785,
+    "query": "RUA AMAZONAS, 883, PITUBA, Salvador - BA, 41830-380",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV WASHINGTON LUIZ 8 --B, SIMÕES FILHO - BA, 43700-000": {
+    "lat": -12.7864051,
+    "lon": -38.3946345,
+    "query": "AV WASHINGTON LUIZ 8 --B, Simões Filho - BA, 43700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA CAPITAO MELO 11, STELLA MARIS, SALVADOR - BA, 41600-610": {
+    "lat": -12.9391158,
+    "lon": -38.3345481,
+    "query": "RUA CAPITAO MELO 11, STELLA MARIS, Salvador - BA, 41600-610",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA RAUL LEITE, 118, AP-1, VILA LAURASALVADOR - BA, 40270-010": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA RAUL LEITE, 118, AP-1, Vila LauraSalvador - BA, 40270-010",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA PRISCILA B DUTRA 1278, MIRAGEM, LAURO DE FREITAS - BA, 42709-200": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA PRISCILA B DUTRA 1278, Miragem, Lauro de Freitas - BA, 42709-200",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::PC MARTINIANO MAIA 26, CENTRO, LAURO DE FREITAS - BA, 42702-720": {
+    "lat": -12.8955788,
+    "lon": -38.3238105,
+    "query": "PC MARTINIANO MAIA 26, Centro, Lauro de Freitas - BA, 42702-720",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA CONEGO PEREIRA 6, BARBALHO, SALVADOR - BA, 40300-755": {
+    "lat": -12.969858,
+    "lon": -38.4991574,
+    "query": "RUA CONEGO PEREIRA 6, Barbalho, Salvador - BA, 40300-755",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA PROFESSOR SABINO SILVA, 6, CHAME-CHAME, SALVADOR - BA, 40155-250": {
+    "lat": -13.0040944,
+    "lon": -38.5180877,
+    "query": "RUA PROFESSOR SABINO SILVA, 6, Chame-Chame, Salvador - BA, 40155-250",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA OSWALDO CRUZ, 564, RIO VERMELHO, SALVADOR - BA, 41940-000": {
+    "lat": -13.0124787,
+    "lon": -38.4853958,
+    "query": "RUA OSWALDO CRUZ, 564, Rio Vermelho, Salvador - BA, 41940-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMOES FILHO, SIMOES FILHO - BA, 43700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMOES FILHO, Simoes Filho - BA, 43700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA PROFESSOR SABINO SILVA, 607, JARDIM APIPEMA, SALVADOR - BA, 40155-250": {
+    "lat": -13.0045035,
+    "lon": -38.5179422,
+    "query": "RUA PROFESSOR SABINO SILVA, 607, Jardim Apipema, Salvador - BA, 40155-250",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV SIMON BOLIVAR, 1 --A, SN, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-230": {
+    "lat": null,
+    "lon": null,
+    "query": "AV SIMON BOLIVAR, 1 --A, SN, Jardim Armação, Salvador - BA, 41750-230",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, BARRA SALVADOR - BA, 40140-241": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, Barra Salvador - BA, 40140-241",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, CANELA SALVADOR - BA, 40110-100": {
+    "lat": null,
+    "lon": null,
+    "query": "AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, Canela Salvador - BA, 40110-100",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV SETE DE SETEMBRO 1111 --A, DOIS DE JULHO, SALVADOR - BA, 40130-001": {
+    "lat": null,
+    "lon": null,
+    "query": "AV SETE DE SETEMBRO 1111 --A, DOIS DE JULHO, SALVADOR - BA, 40130-001",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AL PRAIA DE GUARATUBA 9997,  STELLA MARIS, SALVADOR - BA, 41600-090": {
+    "lat": -12.9403292,
+    "lon": -38.3391959,
+    "query": "AL PRAIA DE GUARATUBA 9997,  Stella Maris, Salvador - BA, 41600-090",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA DA PAZ, 41, ZY AP-0041, GRAÇA SALVADOR - BA, 40150-140": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA DA PAZ, 41, ZY AP-0041, Graça Salvador - BA, 40150-140",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::ESTRADA DO COCO, KM 42, PRAIA DE GUARAJUBA, CAMAÇARI - BA, CEP 42800-970": {
+    "lat": null,
+    "lon": null,
+    "query": "Estrada do Coco, Km 42, Praia de Guarajuba, Camaçari - BA, CEP 42800-970",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::R. ANÍSIO TEIXEIRA, 347 - ITAIGARA, SALVADOR - BA, 41815-060": {
+    "lat": -12.9952434,
+    "lon": -38.4642962,
+    "query": "R. Anísio Teixeira, 347 - Itaigara, Salvador - BA, 41815-060",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, PITUBA, SALVADOR - BA, 41900-325": {
+    "lat": null,
+    "lon": null,
+    "query": "AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, Pituba, Salvador - BA, 41900-325",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA MELVIN JONES, 273,  AP-0273, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-010": {
+    "lat": null,
+    "lon": null,
+    "query": "RUA MELVIN JONES, 273,  AP-0273, Jardim Armação, Salvador - BA, 41750-010",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::R. DA GRATIDÃO, S/N - PIATÃ, SALVADOR - BA, 41650-195": {
+    "lat": null,
+    "lon": null,
+    "query": "R. da Gratidão, s/n - Piatã, Salvador - BA, 41650-195",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV SANTOS DUMONT, 4360 --C, LAURO DE FREITAS - BA, 42702-400": {
+    "lat": -12.9022274,
+    "lon": -38.3345982,
+    "query": "AV SANTOS DUMONT, 4360 --C, Lauro de Freitas - BA, 42702-400",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV IBIRAPITANGA 374 --A, BOM JUÁ, SALVADOR - BA, 40388-000": {
+    "lat": null,
+    "lon": null,
+    "query": "AV IBIRAPITANGA 374 --A, Bom Juá, Salvador - BA, 40388-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV OCTAVIO MANGABEIRA 1024, PIATÃ, SALVADOR - BA, 41650-000": {
+    "lat": -12.9566067,
+    "lon": -38.3896564,
+    "query": "AV OCTAVIO MANGABEIRA 1024, Piatã, Salvador - BA, 41650-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA CEARÁ , PITUBA SALVADOR - BA, 41830-210": {
+    "lat": -13.0038017,
+    "lon": -38.4619459,
+    "query": "RUA CEARÁ , Pituba Salvador - BA, 41830-210",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV SANTOS DUMONT, 7650, PORTÃO LAURO DE FREITAS - BA, 42700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "AV SANTOS DUMONT, 7650, Portão Lauro de Freitas - BA, 42700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV. DO FAROL, S/N, PRAIA DO FORTE, MATA DE SÃO JOÃO - BA, 48280-000": {
+    "lat": -12.5777098,
+    "lon": -38.0137687,
+    "query": "Av. do Farol, s/n, Praia do Forte, Mata de São João - BA, 48280-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::ET DO FLAMENGO, 100  AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170": {
+    "lat": null,
+    "lon": null,
+    "query": "ET DO FLAMENGO, 100  AP-0100, Stella Maris, Salvador - BA - CEP 41600170",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA RAUL LEITE, 46 - VILA LAURA, SALVADOR - BA, 40270-010": {
+    "lat": -12.972507,
+    "lon": -38.4843898,
+    "query": "Rua Raul Leite, 46 - Vila Laura, Salvador - BA, 40270-010",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AL DOS SOMBREIROS 170, PITUBA, SALVADOR - BA, 41820-420": {
+    "lat": null,
+    "lon": null,
+    "query": "AL DOS SOMBREIROS 170, Pituba, Salvador - BA, 41820-420",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::VA PERIFERICA I 4, CIA SUL, SIMOES FILHO - BA - 43700-000": {
+    "lat": null,
+    "lon": null,
+    "query": "VA PERIFERICA I 4, CIA SUL, SIMOES FILHO - BA - 43700-000",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV VASCO DA GAMA 864, ACUPE, SALVADOR - BA, 40290-350": {
+    "lat": -12.9973754,
+    "lon": -38.4925359,
+    "query": "AV VASCO DA GAMA 864, Acupe, Salvador - BA, 40290-350",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::RUA AMAZONAS 1541, PITUBA, SALVADOR - BA - 41830-380": {
+    "lat": -13.0034354,
+    "lon": -38.4585785,
+    "query": "RUA AMAZONAS 1541, PITUBA, SALVADOR - BA - 41830-380",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV OCTAVIO MANGABEIRA, 4435, JARDIM ARMAÇÃOSALVADOR - BA, 41750-240": {
+    "lat": null,
+    "lon": null,
+    "query": "AV OCTAVIO MANGABEIRA, 4435, Jardim ArmaçãoSalvador - BA, 41750-240",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AVENIDA JURACY MAGALHÃES JÚNIOR, 1034, HORTO FLORESTAL, SALVADOR - BA, 40301-110": {
+    "lat": -12.9996016,
+    "lon": -38.4818353,
+    "query": "Avenida Juracy Magalhães Júnior, 1034, Horto Florestal, Salvador - BA, 40301-110",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "END_ORIGINAL::AV NOIDE FERREIRA DE CERQUEIRA, 7450, LGA SALGADA, FEIRA DE SANTANA - BA, 44082-225": {
+    "lat": null,
+    "lon": null,
+    "query": "AV NOIDE FERREIRA DE CERQUEIRA, 7450, Lga Salgada, Feira de Santana - BA, 44082-225",
+    "cidade_geocode": null,
+    "uf_geocode": null
+  },
+  "LO ESPACO ALFA 13, LIIMOEIRO, CAMAÇARI - BA, 42802-590": {
+    "lat": null,
+    "lon": null
+  },
+  "LO ESPACO ALFA 13, LIIMOEIRO, CAMAÇARI - BA, 42802-590 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42802-590": {
+    "lat": -8.2066912,
+    "lon": -34.9242133
+  },
+  "RUA OTAVIO MANGABEIRA 56, LAMA PRETA, CAMAÇARI - BA, 42800-970": {
+    "lat": -12.7013463,
+    "lon": -38.3380323
+  },
+  "TV 1 COVA DA GIA SN, SIMOES FILHO - BA, 43.700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "TV 1 COVA DA GIA SN, SIMOES FILHO - BA, 43.700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "SALVADOR - BA": {
+    "lat": -12.9737371,
+    "lon": -38.5090389
+  },
+  "AV SUL SN, PIACAVEIRA, CAMAÇARI - BA - 42849-999": {
+    "lat": null,
+    "lon": null
+  },
+  "AV SUL SN, PIACAVEIRA, CAMAÇARI - BA - 42849-999 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42849-999": {
+    "lat": -24.2661928,
+    "lon": -53.8332971
+  },
+  "RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, LAURO DE FREITAS, BA, 42700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, LAURO DE FREITAS, BA, 42700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42700-000": {
+    "lat": -12.8872005,
+    "lon": -38.3103482
+  },
+  "RUA CASCALHEIRA 0100, MACHADINHO, CAMAÇARI - BA, 42800-970": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA CASCALHEIRA 0100, MACHADINHO, CAMAÇARI - BA, 42800-970 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42800-970": {
+    "lat": -12.6947358,
+    "lon": -38.331069
+  },
+  "AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817": {
+    "lat": null,
+    "lon": null
+  },
+  "AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41213-817": {
+    "lat": -24.286389,
+    "lon": -53.8293371
+  },
+  "AV ALIOMAR BALEEIRO 469, NOVA BRASILIA, SALVADOR - BA, 41350-275": {
+    "lat": -12.9199243,
+    "lon": -38.3997429
+  },
+  "ET CANABRAVA 2058, CANABRAVA, SIMOES FILHO - BA, 43.700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "ET CANABRAVA 2058, CANABRAVA, SIMOES FILHO - BA, 43.700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "AV BRASIL 99999, CENTRO-DIAS DAVILA, 42850-000": {
+    "lat": null,
+    "lon": null
+  },
+  "AV BRASIL 99999, CENTRO-DIAS DAVILA, 42850-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42850-000": {
+    "lat": -12.6154926,
+    "lon": -38.2960509
+  },
+  "RUA EDMUNDO JOSE DOS REIS 7, ITINGA, 42700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA EDMUNDO JOSE DOS REIS 7, ITINGA, 42700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "ET CAMPINAS PIRAJA 2000, MARECHAL RONDON, 40388-000": {
+    "lat": null,
+    "lon": null
+  },
+  "ET CAMPINAS PIRAJA 2000, MARECHAL RONDON, 40388-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40388-000": {
+    "lat": -15.6105021,
+    "lon": -56.1544918
+  },
+  "AV RIO BANDEIRA 60, GRAVATA, 42800-970": {
+    "lat": -12.6932261,
+    "lon": -38.3375462
+  },
+  "AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMAÇARI - BA, 42800-970": {
+    "lat": null,
+    "lon": null
+  },
+  "AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMAÇARI - BA, 42800-970 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "R. ARACI, 24 - QUADRA18 LOTE - PHOC II, CAMAÇARI - BA, 42805-080": {
+    "lat": null,
+    "lon": null
+  },
+  "R. ARACI, 24 - QUADRA18 LOTE - PHOC II, CAMAÇARI - BA, 42805-080 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42805-080": {
+    "lat": 2.8768549,
+    "lon": -60.7089038
+  },
+  "R. EDMUNDO JOSÉ DOS RÉIS, 7 - JARDIM DAS MARGARIDASLAURO DE FREITAS - BA, 42700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "R. EDMUNDO JOSÉ DOS RÉIS, 7 - JARDIM DAS MARGARIDASLAURO DE FREITAS - BA, 42700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "R. PERNAMBUCO, 97 - TANCREDO NEVESSALVADOR - BA, 41205-140": {
+    "lat": null,
+    "lon": null
+  },
+  "R. PERNAMBUCO, 97 - TANCREDO NEVESSALVADOR - BA, 41205-140 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41205-140": {
+    "lat": -24.2770438,
+    "lon": -53.8353898
+  },
+  "RUA GARIBALDI 9999, VILA DE ABRANTES, CAMAÇARI - BA, 42822-004": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA GARIBALDI 9999, VILA DE ABRANTES, CAMAÇARI - BA, 42822-004 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42822-004": {
+    "lat": -30.8178899,
+    "lon": -53.9010818
+  },
+  "AV ALPHAVILLE 9999, ALPHAVILLE I, SALVADOR - BA, 41701-015": {
+    "lat": -12.8289913,
+    "lon": -38.2727467
+  },
+  "R. ARTUR GOMES DE CARVALHO, 246 - PITUBA, SALVADOR - BA, 41810-64": {
+    "lat": null,
+    "lon": null
+  },
+  "R. ARTUR GOMES DE CARVALHO, 246 - PITUBA, SALVADOR - BA, 41810-64, SALVADOR - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "ENDEREÇO: AV. SETE DE SETEMBRO, 1839 - VITÓRIA, SALVADOR - BA, 40080-002": {
+    "lat": null,
+    "lon": null
+  },
+  "ENDEREÇO: AV. SETE DE SETEMBRO, 1839 - VITÓRIA, SALVADOR - BA, 40080-002 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40080-002": {
+    "lat": -12.9549439,
+    "lon": -38.4832307
+  },
+  "RUA PIRATANCARA 9999, HORTO FLORESTAL, 40295-560": {
+    "lat": -12.9988122,
+    "lon": -38.4877968
+  },
+  "RUA CONDE DE PORTO ALEGRE 241 A AP-1, SALVADOR - BA, 40330-200": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA CONDE DE PORTO ALEGRE 241 A AP-1, SALVADOR - BA, 40330-200 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40330-200": {
+    "lat": -12.9551063,
+    "lon": -38.4843365
+  },
+  "AV JORGE AMADO 980, IMBUI, SALVADOR - BA, 41740-630": {
+    "lat": -12.9691275,
+    "lon": -38.4383244
+  },
+  "AV PAULO VI 1932 AP-1932, SALVADOR - BA, 41810-001": {
+    "lat": null,
+    "lon": null
+  },
+  "AV PAULO VI 1932 AP-1932, SALVADOR - BA, 41810-001 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41810-001": {
+    "lat": -12.9932349,
+    "lon": -38.4565121
+  },
+  "AV DORIVAL CAYMMI 107 -C, SN, ITAPUÃ, SALVADOR - BA, 41635-152": {
+    "lat": null,
+    "lon": null
+  },
+  "AV DORIVAL CAYMMI 107 -C, SN, ITAPUÃ, SALVADOR - BA, 41635-152 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41635-152": {
+    "lat": -12.9386775,
+    "lon": -38.3618481
+  },
+  "AV. MILTON SANTOS, 392 - ONDINA, SALVADOR - BA, 40170-110": {
+    "lat": -13.0037629,
+    "lon": -38.5078305
+  },
+  "RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, PARIPE, SALVADOR - BA, 40800-010": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, PARIPE, SALVADOR - BA, 40800-010 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40800-010": {
+    "lat": -30.8116921,
+    "lon": -53.8982501
+  },
+  "RUA AMAZONAS, 883, PITUBA, SALVADOR - BA, 41830-380": {
+    "lat": -13.0034354,
+    "lon": -38.4585785
+  },
+  "AV WASHINGTON LUIZ 8 -B, SIMÕES FILHO - BA, 43700-000": {
+    "lat": -12.7875701,
+    "lon": -38.3945316
+  },
+  "RUA CAPITAO MELO 11, STELLA MARIS, SALVADOR - BA, 41600-610": {
+    "lat": -12.9391158,
+    "lon": -38.3345481
+  },
+  "RUA RAUL LEITE, 118, AP-1, VILA LAURASALVADOR - BA, 40270-010": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA RAUL LEITE, 118, AP-1, VILA LAURASALVADOR - BA, 40270-010 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40270-010": {
+    "lat": -30.8116921,
+    "lon": -53.8982501
+  },
+  "RUA PRISCILA B DUTRA 1278, MIRAGEM, LAURO DE FREITAS - BA, 42709-200": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA PRISCILA B DUTRA 1278, MIRAGEM, LAURO DE FREITAS - BA, 42709-200 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "42709-200": {
+    "lat": -21.6938831,
+    "lon": -45.265113
+  },
+  "PC MARTINIANO MAIA 26, CENTRO, LAURO DE FREITAS - BA, 42702-720": {
+    "lat": -12.8955788,
+    "lon": -38.3238105
+  },
+  "RUA CONEGO PEREIRA 6, BARBALHO, SALVADOR - BA, 40300-755": {
+    "lat": -12.9693788,
+    "lon": -38.4966781
+  },
+  "RUA PROFESSOR SABINO SILVA, 6, CHAME-CHAME, SALVADOR - BA, 40155-250": {
+    "lat": -13.0040944,
+    "lon": -38.5180877
+  },
+  "RUA OSWALDO CRUZ, 564, RIO VERMELHO, SALVADOR - BA, 41940-000": {
+    "lat": -13.0124787,
+    "lon": -38.4853958
+  },
+  "VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMÕES FILHO, SIMOES FILHO - BA, 43700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMÕES FILHO, SIMOES FILHO - BA, 43700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "43700-000": {
+    "lat": -12.7934894,
+    "lon": -38.4000818
+  },
+  "RUA PROFESSOR SABINO SILVA, 607, JARDIM APIPEMA, SALVADOR - BA, 40155-250": {
+    "lat": -13.0040944,
+    "lon": -38.5180877
+  },
+  "AV SIMON BOLIVAR, 1 -A, SN, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-230": {
+    "lat": null,
+    "lon": null
+  },
+  "AV SIMON BOLIVAR, 1 -A, SN, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-230 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41750-230": {
+    "lat": -12.9838513,
+    "lon": -38.4355683
+  },
+  "RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, BARRA SALVADOR - BA, 40140-241": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, BARRA SALVADOR - BA, 40140-241 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40140-241": {
+    "lat": -13.0051735,
+    "lon": -38.5293523
+  },
+  "AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, CANELA SALVADOR - BA, 40110-100": {
+    "lat": null,
+    "lon": null
+  },
+  "AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, CANELA SALVADOR - BA, 40110-100 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40110-100": {
+    "lat": -12.9942283,
+    "lon": -38.5220785
+  },
+  "AV SETE DE SETEMBRO 1111 -A, DOIS DE JULHO, SALVADOR - BA, 40130-001": {
+    "lat": null,
+    "lon": null
+  },
+  "AV SETE DE SETEMBRO 1111 -A, DOIS DE JULHO, SALVADOR - BA, 40130-001 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40130-001": {
+    "lat": -12.9998975,
+    "lon": -38.5306596
+  },
+  "AL PRAIA DE GUARATUBA 9997, STELLA MARIS, SALVADOR - BA, 41600-090": {
+    "lat": -12.9403292,
+    "lon": -38.3391959
+  },
+  "RUA DA PAZ, 41, ZY AP-0041, GRAÇA SALVADOR - BA, 40150-140": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA DA PAZ, 41, ZY AP-0041, GRAÇA SALVADOR - BA, 40150-140 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "40150-140": {
+    "lat": -12.9998609,
+    "lon": -38.4873307
+  },
+  "ESTRADA DO COCO, KM 42, PRAIA DE GUARAJUBA, CAMAÇARI - BA, CEP 42800-970": {
+    "lat": null,
+    "lon": null
+  },
+  "ESTRADA DO COCO, KM 42, PRAIA DE GUARAJUBA, CAMAÇARI - BA, CEP 42800-970 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "R. ANÍSIO TEIXEIRA, 347 - ITAIGARA, SALVADOR - BA, 41815-060": {
+    "lat": -12.9938146,
+    "lon": -38.463699
+  },
+  "AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, PITUBA, SALVADOR - BA, 41900-325": {
+    "lat": null,
+    "lon": null
+  },
+  "AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, PITUBA, SALVADOR - BA, 41900-325 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41900-325": {
+    "lat": -30.5327781,
+    "lon": -52.5223971
+  },
+  "RUA MELVIN JONES, 273, AP-0273, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-010": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA MELVIN JONES, 273, AP-0273, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-010 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41750-010": {
+    "lat": -30.8116921,
+    "lon": -53.8982501
+  },
+  "R. DA GRATIDÃO, S/N - PIATÃ, SALVADOR - BA, 41650-195": {
+    "lat": null,
+    "lon": null
+  },
+  "R. DA GRATIDÃO, S/N - PIATÃ, SALVADOR - BA, 41650-195 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41650-195": {
+    "lat": -12.9409929,
+    "lon": -38.378494
+  },
+  "AV SANTOS DUMONT, 4360 -C, LAURO DE FREITAS - BA, 42702-400": {
+    "lat": -12.8996885,
+    "lon": -38.3324076
+  },
+  "AV IBIRAPITANGA 374 -A, BOM JUÁ, SALVADOR - BA, 40388-000": {
+    "lat": null,
+    "lon": null
+  },
+  "AV IBIRAPITANGA 374 -A, BOM JUÁ, SALVADOR - BA, 40388-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "AV OCTAVIO MANGABEIRA 1024, PIATÃ, SALVADOR - BA, 41650-000": {
+    "lat": -12.955623,
+    "lon": -38.3868181
+  },
+  "RUA CEARÁ , PITUBA SALVADOR - BA, 41830-210": {
+    "lat": -13.0038017,
+    "lon": -38.4619459
+  },
+  "AV SANTOS DUMONT, 7650, PORTÃO LAURO DE FREITAS - BA, 42700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "AV SANTOS DUMONT, 7650, PORTÃO LAURO DE FREITAS - BA, 42700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "AV. DO FAROL, S/N, PRAIA DO FORTE, MATA DE SÃO JOÃO - BA, 48280-000": {
+    "lat": -12.5777098,
+    "lon": -38.0137687
+  },
+  "ET DO FLAMENGO, 100 AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170": {
+    "lat": null,
+    "lon": null
+  },
+  "ET DO FLAMENGO, 100 AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41600170": {
+    "lat": null,
+    "lon": null
+  },
+  "ET DO FLAMENGO, 100 AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170, SALVADOR - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "RUA RAUL LEITE, 46 - VILA LAURA, SALVADOR - BA, 40270-010": {
+    "lat": -12.972507,
+    "lon": -38.4843898
+  },
+  "AL DOS SOMBREIROS 170, PITUBA, SALVADOR - BA, 41820-420": {
+    "lat": null,
+    "lon": null
+  },
+  "AL DOS SOMBREIROS 170, PITUBA, SALVADOR - BA, 41820-420 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41820-420": {
+    "lat": -12.9819935,
+    "lon": -38.4572633
+  },
+  "VA PERIFERICA I 4, CIA SUL, SIMÕES FILHO - BA - 43700-000": {
+    "lat": null,
+    "lon": null
+  },
+  "VA PERIFERICA I 4, CIA SUL, SIMÕES FILHO - BA - 43700-000 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "AV VASCO DA GAMA 864, ACUPE, SALVADOR - BA, 40290-350": {
+    "lat": -12.9968576,
+    "lon": -38.493369
+  },
+  "RUA AMAZONAS 1541, PITUBA, SALVADOR - BA - 41830-380": {
+    "lat": -13.0034354,
+    "lon": -38.4585785
+  },
+  "AV OCTAVIO MANGABEIRA, 4435, JARDIM ARMAÇÃOSALVADOR - BA, 41750-240": {
+    "lat": null,
+    "lon": null
+  },
+  "AV OCTAVIO MANGABEIRA, 4435, JARDIM ARMAÇÃOSALVADOR - BA, 41750-240 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "41750-240": {
+    "lat": -12.9890952,
+    "lon": -38.4369727
+  },
+  "AVENIDA JURACY MAGALHÃES JÚNIOR, 1034, HORTO FLORESTAL, SALVADOR - BA, 40301-110": {
+    "lat": -12.9996016,
+    "lon": -38.4818353
+  },
+  "AV NOIDE FERREIRA DE CERQUEIRA, 7450, LGA SALGADA, FEIRA DE SANTANA - BA, 44082-225": {
+    "lat": null,
+    "lon": null
+  },
+  "AV NOIDE FERREIRA DE CERQUEIRA, 7450, LGA SALGADA, FEIRA DE SANTANA - BA, 44082-225 - BA": {
+    "lat": null,
+    "lon": null
+  },
+  "44082-225": {
+    "lat": -7.9206919,
+    "lon": -34.9333595
+  },
+  "41350-275": {
+    "lat": -12.9212774,
+    "lon": -38.4024777
+  },
+  "41701-015": {
+    "lat": -12.938856,
+    "lon": -38.4044302
+  },
+  "40295-560": {
+    "lat": -24.284299,
+    "lon": -53.852278
+  },
+  "41740-630": {
+    "lat": -15.8672855,
+    "lon": -48.0249869
+  },
+  "40170-110": {
+    "lat": -13.0029722,
+    "lon": -38.5079521
+  },
+  "41830-380": {
+    "lat": -13.0032305,
+    "lon": -38.4577348
+  },
+  "41600-610": {
+    "lat": -12.9393692,
+    "lon": -38.334609
+  },
+  "42702-720": {
+    "lat": -24.2815169,
+    "lon": -53.8275821
+  },
+  "40300-755": {
+    "lat": -8.2069791,
+    "lon": -34.9245007
+  },
+  "40155-250": {
+    "lat": -13.0060491,
+    "lon": -38.5175916
+  },
+  "41940-000": {
+    "lat": -13.0127085,
+    "lon": -38.4852717
+  },
+  "41600-090": {
+    "lat": -12.9363197,
+    "lon": -38.3317588
+  },
+  "41815-060": {
+    "lat": -30.8100681,
+    "lon": -53.9072475
+  },
+  "42702-400": {
+    "lat": -24.2730562,
+    "lon": -53.8377337
+  },
+  "41650-000": {
+    "lat": -15.6105021,
+    "lon": -56.1544918
+  },
+  "41830-210": {
+    "lat": -21.6909906,
+    "lon": -45.2636756
+  },
+  "48280-000": {
+    "lat": -12.5685666,
+    "lon": -38.0260465
+  },
+  "40290-350": {
+    "lat": -23.2136467,
+    "lon": -46.8300319
+  },
+  "40301-110": {
+    "lat": -12.6610786,
+    "lon": -38.6627301
+  },
+  "R. ARTUR GOMES DE CARVALHO, 246 - PITUBA, SALVADOR - BA, 41810-64, BA": {
+    "lat": null,
+    "lon": null
+  },
+  "SALVADOR, BAHIA, BRASIL": {
+    "lat": -14.8595293,
+    "lon": -40.8573872
+  },
+  "41600-170": {
+    "lat": -14.8570284,
+    "lon": -40.8544709
+  }
+}
