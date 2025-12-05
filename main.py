@@ -6,6 +6,14 @@ from database import get_db, Base, engine
 from models import UnidadeComercial # Garante que o modelo UnidadeComercial seja importado
 from fastapi.staticfiles import StaticFiles
 from typing import Optional, List 
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+@app.get("/", include_in_schema=False)
+def serve_frontend():
+    return FileResponse("static/index.html")
 
 app = FastAPI(title="MAPA UNIDADES API")
 
