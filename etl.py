@@ -2,6 +2,7 @@ import os
 import re
 import time
 import json
+import requests
 import pandas as pd
 from sqlalchemy.orm import sessionmaker
 from database import Base, engine, SessionLocal
@@ -60,24 +61,51 @@ def limpar_endereco(txt):
         return None
     txt = txt.strip()
     
-    # Remove duplicações "----"
     txt = re.sub(r"-{2,}", "-", txt)
-
-    # Remove múltiplos espaços
     txt = re.sub(r"\s+", " ", txt)
 
-    # Corrige erros comuns de grafia
     txt = txt.replace("SALVADOR - BAHIA", "Salvador - BA")
     txt = txt.replace("SIMOES FILHO", "Simões Filho")
     txt = txt.replace("CAMACARI", "Camaçari")
     
     return txt
 
+
 # ==============================
-# GEOCODING
+# GEOCODING — BRASILAPI
+# ==============================
+def geocode_por_cep_br(cep):
+    """Tenta obter lat/lon diretamente da BrasilAPI usando CEP."""
+    cep_limpo = cep.replace("-", "").strip()
+    url = f"https://brasilapi.com.br/api/cep/v1/{cep_limpo}"
+
+    try:
+        resp = requests.get(url, timeout=5)
+        if resp.status_code != 200:
+            return None, None, None
+
+        data = resp.json()
+
+        if "location" in data and data["location"] and "coordinates" in data["location"]:
+            lat = data["location"]["coordinates"].get("latitude")
+            lon = data["location"]["coordinates"].get("longitude")
+
+            # Endereço reconstruído
+            endereco_full = f"{data.get('street', '')}, {data.get('neighborhood', '')}, {data.get('city', '')} - {data.get('state', '')}"
+
+            if lat and lon:
+                return lat, lon, endereco_full
+
+    except Exception:
+        pass
+
+    return None, None, None
+
+
+# ==============================
+# GEOCODING — NOMINATIM
 # ==============================
 def geocode_try(q):
-    """Busca geocode com cache."""
     if not q:
         return None, None
 
@@ -97,14 +125,15 @@ def geocode_try(q):
     return None, None
 
 
+# ==============================
+# GEOCODING INTELIGENTE (ATUALIZADO)
+# ==============================
 def geocode_inteligente(end):
     """
-    Estratégia em cascata:
-    1. Endereço limpo
-    2. Endereço + UF (se faltar)
-    3. CEP isolado
-    4. Cidade detectada no texto
-    5. Cidade + estado (fallback final)
+    Agora com prioridade:
+    1. Se tiver CEP → tenta BrasilAPI
+    2. Se achou → retorna e finaliza
+    3. Caso contrário → toda lógica Nominatim antiga
     """
 
     if not end:
@@ -113,27 +142,27 @@ def geocode_inteligente(end):
     end = limpar_endereco(end)
     original = end
 
-    # 1 — endereço normal
-    lat, lon = geocode_try(end)
-    if lat: return lat, lon, original
+    # 1 — extrair CEP
+    cep = extrair_cep(end)
+    if cep:
+        lat, lon, end_brasilapi = geocode_por_cep_br(cep)
+        if lat and lon:
+            return lat, lon, f"BRASILAPI: {cep}"
 
-    # 2 — se não tiver estado, tenta detectar
+    # 2 — endereço normal (Nominatim)
+    lat, lon = geocode_try(end)
+    if lat:
+        return lat, lon, original
+
+    # 3 — se não tiver estado, tenta forçar UF
     if "-" in end:
         partes = end.split("-")
-        if len(partes[-1].strip()) == 2:  # já tem UF
-            pass
-        else:
+        if len(partes[-1].strip()) != 2:
             end2 = f"{end} - BA"
             lat, lon = geocode_try(end2)
             if lat: return lat, lon, end2
 
-    # 3 — procurar CEP
-    cep = extrair_cep(end)
-    if cep:
-        lat, lon = geocode_try(cep)
-        if lat: return lat, lon, cep
-
-    # 4 — tentar extrair cidade de padrões conhecidos
+    # 4 — fallback BA
     cidades_ba = ["Salvador", "Camaçari", "Lauro de Freitas", "Simões Filho", 
                   "Praia do Forte", "Acupe"]
     
@@ -163,7 +192,6 @@ def processar_excel(path_excel=EXCEL_PATH):
         print("⚠️ Falha ao ler Excel.")
         return
 
-    # Normaliza colunas
     df.columns = [re.sub(r"[^a-z0-9]+", "_", c.lower()) for c in df.columns]
 
     Base.metadata.drop_all(bind=engine)
@@ -173,7 +201,7 @@ def processar_excel(path_excel=EXCEL_PATH):
     total = len(df)
 
     print(f"\n🚀 Processando {total} registros...")
-    
+
     for idx, row in tqdm(df.iterrows(), total=total):
 
         rede = row.get("rede")
@@ -210,6 +238,6 @@ def processar_excel(path_excel=EXCEL_PATH):
     print("\n✅ ETL FINALIZADO!")
     print(f"📌 Cache total: {len(GEOCACHE)}")
 
-# ==============================
+
 if __name__ == "__main__":
     processar_excel(EXCEL_PATH)

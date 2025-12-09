@@ -9,3 +9,4 @@ tqdm
 python-multipart
 python-dateutil
 geopy
+requests
