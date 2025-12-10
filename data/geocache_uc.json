@@ -1,558 +1,452 @@
 {
-  "LO ESPACO ALFA 13, LIIMOEIRO, CAMAÇARI - BA, 42802-590": {
+  "42802-590": {
+    "lat": -8.2066912,
+    "lon": -34.9242133,
+    "display_name": "590, Candeias, Jaboatão dos Guararapes, Região Geográfica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, Brasil"
+  },
+  "LIMOEIRO, CAMACARI": {
+    "lat": -12.708141,
+    "lon": -38.300416,
+    "display_name": "Jardim Limoeiro, Camacari, Camaçari, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 42802-580, Brasil"
+  },
+  "42802-580": {
+    "lat": -12.7096795,
+    "lon": -38.3016487,
+    "display_name": "42802-580, Camacari, Camaçari, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "42800-970": {
+    "lat": -12.6947358,
+    "lon": -38.331069,
+    "display_name": "42800-970, Camacari, Camaçari, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "43700-000": {
+    "lat": -12.7934894,
+    "lon": -38.4000818,
+    "display_name": "43700-000, Simões Filho, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "42849-999": {
+    "lat": -24.2661928,
+    "lon": -53.8332971,
+    "display_name": "999, Vila Bella, Jardim Social, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "AVENIDA SUL, PIACAVEIRA, CAMACARI": {
     "lat": null,
     "lon": null
   },
-  "LO ESPACO ALFA 13, LIIMOEIRO, CAMAÇARI - BA, 42802-590 - BA": {
+  "PIACAVEIRA CAMACARI": {
+    "lat": -12.7158571,
+    "lon": -38.3188876,
+    "display_name": "Praça da Piacaveira, Piaçavera, Camacari, Camaçari, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "42700-000": {
+    "lat": -12.8872005,
+    "lon": -38.3103482,
+    "display_name": "42700-000, Lauro de Freitas, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41213-817": {
+    "lat": -24.286389,
+    "lon": -53.8293371,
+    "display_name": "817, Jequitibá, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "41213-800": {
+    "lat": -24.2777598,
+    "lon": -53.8265055,
+    "display_name": "800, Imigrantes, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "AVENIDA ULYSSES GUIMARARES, SALVADOR": {
     "lat": null,
     "lon": null
   },
-  "LO ESPACO ALFA 13, LIIMOEIRO, CAMAÇARI - BA, 42802-590, CAMAÇARI - BA": {
+  "41213-000": {
+    "lat": -12.9418627,
+    "lon": -38.4303499,
+    "display_name": "41213-000, Centro Administrativo da Bahia, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41350-275": {
+    "lat": -12.9212774,
+    "lon": -38.4024777,
+    "display_name": "41350-275, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "42850-000": {
+    "lat": -12.6154926,
+    "lon": -38.2960509,
+    "display_name": "42850-000, Dias d'Ávila, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40388-000": {
+    "lat": -15.6105021,
+    "lon": -56.1544918,
+    "display_name": "Coca-Cola Renosa Ind Bras de Bebidas, 1080, Petrópolis, Várzea Grande, Região Geográfica Imediata de Cuiabá, Região Metropolitana do Vale do Rio Cuiabá, Região Geográfica Intermediária de Cuiabá, Mato Grosso, Região Centro-Oeste, 78110-000, Brasil"
+  },
+  "MARECHAL RONDON SALVADOR": {
+    "lat": -12.9124412,
+    "lon": -38.4707046,
+    "display_name": "Marechal Rondon, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40480-120, Brasil"
+  },
+  "41295-720": {
+    "lat": -22.9943391,
+    "lon": -43.2716056,
+    "display_name": "Caminho das Canoas, São Conrado, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22610-220, Brasil"
+  },
+  "40480-120": {
+    "lat": -12.9187334,
+    "lon": -38.4762626,
+    "display_name": "40480-120, Boa Vista do Lobato, Campinas, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "42805-080": {
+    "lat": 2.8768549,
+    "lon": -60.7089038,
+    "display_name": "Quadra 080, Loteamento Monte Cristo, Monte Cristo, Boa Vista, Região Geográfica Imediata de Boa Vista, Região Geográfica Intermediária de Boa Vista, Roraima, Região Norte, Brasil"
+  },
+  "41205-140": {
+    "lat": -24.2770438,
+    "lon": -53.8353898,
+    "display_name": "140, Imigrantes, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "41830-390": {
+    "lat": -13.003667,
+    "lon": -38.4581574,
+    "display_name": "41830-390, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "42822-004": {
+    "lat": -30.8105461,
+    "lon": -53.8983741,
+    "display_name": "004, Vila Poty Medeiros, Lavras do Sul, Região Geográfica Imediata de São Gabriel - Caçapava do Sul, Região Geográfica Intermediária de Santa Maria, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "42840-190": {
+    "lat": -30.1565417,
+    "lon": -53.5643573,
+    "display_name": "190, São Francisco, Sede, São Sepé, Região Geográfica Imediata de Santa Maria, Região Geográfica Intermediária de Santa Maria, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "42827-970": {
+    "lat": -24.5279121,
+    "lon": -54.1086619,
+    "display_name": "Contorno de Marechal Cândido Rondon, Novo Horizonte, Marechal Cândido Rondon, Região Geográfica Imediata de Marechal Cândido Rondon, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, 85978-000, Brasil"
+  },
+  "VILA DE ABRANTES CAMACARI": {
+    "lat": -12.8258799,
+    "lon": -38.2651531,
+    "display_name": "Vila de Abrantes, Camaçari, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 42840-000, Brasil"
+  },
+  "41701-015": {
+    "lat": -12.938856,
+    "lon": -38.4044302,
+    "display_name": "41701-015, Patamares, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41810-640": {
+    "lat": -12.9942107,
+    "lon": -38.4542172,
+    "display_name": "41810-640, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40080-002": {
+    "lat": -12.9549439,
+    "lon": -38.4832307,
+    "display_name": "40080-002, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40295-560": {
+    "lat": -24.284299,
+    "lon": -53.852278,
+    "display_name": "560, Loteamento Chácara 152 e Parte 151 e 150, Santa Terezinha, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "40285-885": {
+    "lat": -24.2986084,
+    "lon": -53.8276638,
+    "display_name": "885, Casa Grande, Osvaldo Cruz, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "REDE MIX HORTO FLORESTAL": {
     "lat": null,
     "lon": null
   },
-  "SALVADOR - BA": {
-    "lat": -12.9737371,
-    "lon": -38.5090389
+  "RUA WALDEMAR FALCÃO": {
+    "lat": -19.8338263,
+    "lon": -43.942091,
+    "display_name": "Rua Waldemar Falcão, Planalto, Regional Norte, Belo Horizonte, Região Geográfica Imediata de Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Região Sudeste, 31742-036, Brasil"
   },
-  "RUA OTAVIO MANGABEIRA 56, LAMA PRETA, CAMAÇARI - BA, 42800-970": {
-    "lat": -12.7013463,
-    "lon": -38.3380323
+  "RUA WALDEMAR FALCÃO SALVADOR": {
+    "lat": -12.9942413,
+    "lon": -38.4860914,
+    "display_name": "Rua Waldemar Falcão, Vila 19 de Maio - Buraco da Gia, Brotas, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40285-020, Brasil"
   },
-  "TV 1 COVA DA GIA SN, SIMOES FILHO - BA, 43.700-000": {
+  "40330-200": {
+    "lat": -12.9551063,
+    "lon": -38.4843365,
+    "display_name": "40330-200, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41740-630": {
+    "lat": -15.8672855,
+    "lon": -48.0249869,
+    "display_name": "Rua 630, Arniqueira, Região Geográfica Imediata do Distrito Federal, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Região Geográfica Intermediária do Distrito Federal, Distrito Federal, Região Centro-Oeste, 71971-540, Brasil"
+  },
+  "AVENIDA JORGE AMADO SALVADOR": {
+    "lat": -12.9690753,
+    "lon": -38.4294038,
+    "display_name": "Avenida Jorge Amado, Imbuí, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41720-010, Brasil"
+  },
+  "41810-001": {
+    "lat": -12.9932349,
+    "lon": -38.4565121,
+    "display_name": "41810-001, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41635-152": {
+    "lat": -12.9386775,
+    "lon": -38.3618481,
+    "display_name": "41635-152, Itapuã, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40170-110": {
+    "lat": -13.0029722,
+    "lon": -38.5079521,
+    "display_name": "40170-110, Ondina, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40800-010": {
+    "lat": -30.8067985,
+    "lon": -53.8989638,
+    "display_name": "010, Vila Poty Medeiros, Lavras do Sul, Região Geográfica Imediata de São Gabriel - Caçapava do Sul, Região Geográfica Intermediária de Santa Maria, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "RUA DOUTOR EDUARDO DOTTO 83 SALVADOR": {
+    "lat": -12.8289668,
+    "lon": -38.4843171,
+    "display_name": "Rua Doutor Eduardo Dotto, Vila São Tomé de Paripe, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40800-570, Brasil"
+  },
+  "41830-380": {
+    "lat": -13.0032305,
+    "lon": -38.4577348,
+    "display_name": "41830-380, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41600-610": {
+    "lat": -12.9393692,
+    "lon": -38.334609,
+    "display_name": "41600-610, Stella Maris, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40270-010": {
+    "lat": -30.8067985,
+    "lon": -53.8989638,
+    "display_name": "010, Vila Poty Medeiros, Lavras do Sul, Região Geográfica Imediata de São Gabriel - Caçapava do Sul, Região Geográfica Intermediária de Santa Maria, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "RUA RAUL LEITE, SALVADOR": {
+    "lat": -12.9719794,
+    "lon": -38.4920212,
+    "display_name": "Rua Raul Leite, Vila Laura, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40270-180, Brasil"
+  },
+  "42709-200": {
+    "lat": -21.6938831,
+    "lon": -45.265113,
+    "display_name": "200, Chácara das Rosas, Três Corações, Região Geográfica Imediata de Três Corações, Região Geográfica Intermediária de Varginha, Minas Gerais, Região Sudeste, 37410-000, Brasil"
+  },
+  "RUA PRISCILA DUTRA, LAURO DE FREITAS": {
     "lat": null,
     "lon": null
   },
-  "TV 1 COVA DA GIA SN, SIMOES FILHO - BA, 43.700-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV SUL SN, PIACAVEIRA, CAMAÇARI - BA - 42849-999": {
-    "lat": null,
-    "lon": null
-  },
-  "AV SUL SN, PIACAVEIRA, CAMAÇARI - BA - 42849-999 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV SUL SN, PIACAVEIRA, CAMAÇARI - BA - 42849-999, CAMAÇARI - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, LAURO DE FREITAS, BA, 42700-000": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, LAURO DE FREITAS, BA, 42700-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA MINISTRO ANTONIO CARLOS MAGALHAES 302, LAURO DE FREITAS, BA, 42700-000, LAURO DE FREITAS - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA CASCALHEIRA 0100, MACHADINHO, CAMAÇARI - BA, 42800-970": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA CASCALHEIRA 0100, MACHADINHO, CAMAÇARI - BA, 42800-970 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA CASCALHEIRA 0100, MACHADINHO, CAMAÇARI - BA, 42800-970, CAMAÇARI - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817": {
-    "lat": null,
-    "lon": null
-  },
-  "AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV ULYSSES GUIMARAES 4543, SUSSUARANA, SALVADOR - BA, 41213-817, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV ALIOMAR BALEEIRO 469, NOVA BRASILIA, SALVADOR - BA, 41350-275": {
-    "lat": -12.9199243,
-    "lon": -38.3997429
-  },
-  "ET CANABRAVA 2058, CANABRAVA, SIMOES FILHO - BA, 43.700-000": {
-    "lat": null,
-    "lon": null
-  },
-  "ET CANABRAVA 2058, CANABRAVA, SIMOES FILHO - BA, 43.700-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV BRASIL 99999, CENTRO-DIAS DAVILA, 42850-000": {
-    "lat": null,
-    "lon": null
-  },
-  "AV BRASIL 99999, CENTRO-DIAS DAVILA, 42850-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA EDMUNDO JOSE DOS REIS 7, ITINGA, 42700-000": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA EDMUNDO JOSE DOS REIS 7, ITINGA, 42700-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "ET CAMPINAS PIRAJA 2000, MARECHAL RONDON, 40388-000": {
-    "lat": null,
-    "lon": null
-  },
-  "ET CAMPINAS PIRAJA 2000, MARECHAL RONDON, 40388-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV RIO BANDEIRA 60, GRAVATA, 42800-970": {
-    "lat": -12.6932261,
-    "lon": -38.3375462
-  },
-  "AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMAÇARI - BA, 42800-970": {
-    "lat": null,
-    "lon": null
-  },
-  "AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMAÇARI - BA, 42800-970 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV LUIZ GONZAGA 1000, QUARENTA E SEIS, CAMAÇARI - BA, 42800-970, CAMAÇARI - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. ARACI, 24 - QUADRA18 LOTE - PHOC II, CAMAÇARI - BA, 42805-080": {
-    "lat": null,
-    "lon": null
-  },
-  "R. ARACI, 24 - QUADRA18 LOTE - PHOC II, CAMAÇARI - BA, 42805-080 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. ARACI, 24 - QUADRA18 LOTE - PHOC II, CAMAÇARI - BA, 42805-080, CAMAÇARI - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. EDMUNDO JOSÉ DOS RÉIS, 7 - JARDIM DAS MARGARIDASLAURO DE FREITAS - BA, 42700-000": {
-    "lat": null,
-    "lon": null
-  },
-  "R. EDMUNDO JOSÉ DOS RÉIS, 7 - JARDIM DAS MARGARIDASLAURO DE FREITAS - BA, 42700-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. EDMUNDO JOSÉ DOS RÉIS, 7 - JARDIM DAS MARGARIDASLAURO DE FREITAS - BA, 42700-000, LAURO DE FREITAS - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. PERNAMBUCO, 97 - TANCREDO NEVESSALVADOR - BA, 41205-140": {
-    "lat": null,
-    "lon": null
-  },
-  "R. PERNAMBUCO, 97 - TANCREDO NEVESSALVADOR - BA, 41205-140 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. PERNAMBUCO, 97 - TANCREDO NEVESSALVADOR - BA, 41205-140, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA GARIBALDI 9999, VILA DE ABRANTES, CAMAÇARI - BA, 42822-004": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA GARIBALDI 9999, VILA DE ABRANTES, CAMAÇARI - BA, 42822-004 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA GARIBALDI 9999, VILA DE ABRANTES, CAMAÇARI - BA, 42822-004, CAMAÇARI - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV ALPHAVILLE 9999, ALPHAVILLE I, SALVADOR - BA, 41701-015": {
-    "lat": -12.8289913,
-    "lon": -38.2727467
-  },
-  "R. ARTUR GOMES DE CARVALHO, 246 - PITUBA, SALVADOR - BA, 41810-64": {
-    "lat": null,
-    "lon": null
-  },
-  "R. ARTUR GOMES DE CARVALHO, 246 - PITUBA, SALVADOR - BA, 41810-64, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "ENDEREÇO: AV. SETE DE SETEMBRO, 1839 - VITÓRIA, SALVADOR - BA, 40080-002": {
-    "lat": null,
-    "lon": null
-  },
-  "ENDEREÇO: AV. SETE DE SETEMBRO, 1839 - VITÓRIA, SALVADOR - BA, 40080-002 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "ENDEREÇO: AV. SETE DE SETEMBRO, 1839 - VITÓRIA, SALVADOR - BA, 40080-002, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA PIRATANCARA 9999, HORTO FLORESTAL, 40295-560": {
-    "lat": -12.9989613,
-    "lon": -38.4880161
-  },
-  "RUA CONDE DE PORTO ALEGRE 241 A AP-1, SALVADOR - BA, 40330-200": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA CONDE DE PORTO ALEGRE 241 A AP-1, SALVADOR - BA, 40330-200 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA CONDE DE PORTO ALEGRE 241 A AP-1, SALVADOR - BA, 40330-200, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV JORGE AMADO 980, IMBUI, SALVADOR - BA, 41740-630": {
-    "lat": -12.9690831,
-    "lon": -38.4368469
-  },
-  "AV PAULO VI 1932 AP-1932, SALVADOR - BA, 41810-001": {
-    "lat": null,
-    "lon": null
-  },
-  "AV PAULO VI 1932 AP-1932, SALVADOR - BA, 41810-001 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV PAULO VI 1932 AP-1932, SALVADOR - BA, 41810-001, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV DORIVAL CAYMMI 107 -C, SN, ITAPUÃ, SALVADOR - BA, 41635-152": {
-    "lat": null,
-    "lon": null
-  },
-  "AV DORIVAL CAYMMI 107 -C, SN, ITAPUÃ, SALVADOR - BA, 41635-152 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV DORIVAL CAYMMI 107 -C, SN, ITAPUÃ, SALVADOR - BA, 41635-152, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV. MILTON SANTOS, 392 - ONDINA, SALVADOR - BA, 40170-110": {
-    "lat": -13.0022244,
-    "lon": -38.5063126
-  },
-  "RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, PARIPE, SALVADOR - BA, 40800-010": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, PARIPE, SALVADOR - BA, 40800-010 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA DOUTOR EDUARDO DOTTO, 83 Z, AP-0083, PARIPE, SALVADOR - BA, 40800-010, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA AMAZONAS, 883, PITUBA, SALVADOR - BA, 41830-380": {
-    "lat": -13.0034354,
-    "lon": -38.4585785
-  },
-  "AV WASHINGTON LUIZ 8 -B, SIMÕES FILHO - BA, 43700-000": {
-    "lat": -12.7875701,
-    "lon": -38.3945316
-  },
-  "RUA CAPITAO MELO 11, STELLA MARIS, SALVADOR - BA, 41600-610": {
-    "lat": -12.9391158,
-    "lon": -38.3345481
-  },
-  "RUA RAUL LEITE, 118, AP-1, VILA LAURASALVADOR - BA, 40270-010": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA RAUL LEITE, 118, AP-1, VILA LAURASALVADOR - BA, 40270-010 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA RAUL LEITE, 118, AP-1, VILA LAURASALVADOR - BA, 40270-010, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA PRISCILA B DUTRA 1278, MIRAGEM, LAURO DE FREITAS - BA, 42709-200": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA PRISCILA B DUTRA 1278, MIRAGEM, LAURO DE FREITAS - BA, 42709-200 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA PRISCILA B DUTRA 1278, MIRAGEM, LAURO DE FREITAS - BA, 42709-200, LAURO DE FREITAS - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "PC MARTINIANO MAIA 26, CENTRO, LAURO DE FREITAS - BA, 42702-720": {
+  "AVENIDA PRISCILA DUTRA, LAURO DE FREITAS": {
+    "lat": -12.879055,
+    "lon": -38.3004702,
+    "display_name": "Avenida Priscila B. Dutra, Condomínio Encontro das Águas, Vilas do Atlântico, Lauro de Freitas, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 42709-290, Brasil"
+  },
+  "42702-720": {
+    "lat": -24.2815169,
+    "lon": -53.8275821,
+    "display_name": "720, Pioneiro, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
+  },
+  "PRAÇA MARTINIANO MAIA, LAURO DE FREITAS": {
     "lat": -12.8955788,
-    "lon": -38.3238105
+    "lon": -38.3238105,
+    "display_name": "Praça Martiniano Maia, Centro, Lauro de Freitas, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 42700-170, Brasil"
   },
-  "RUA CONEGO PEREIRA 6, BARBALHO, SALVADOR - BA, 40300-755": {
-    "lat": -12.9693788,
-    "lon": -38.4966781
+  "40300-755": {
+    "lat": -8.2069791,
+    "lon": -34.9245007,
+    "display_name": "755, Candeias, Jaboatão dos Guararapes, Região Geográfica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, Brasil"
   },
-  "RUA PROFESSOR SABINO SILVA, 6, CHAME-CHAME, SALVADOR - BA, 40155-250": {
-    "lat": -13.0040944,
-    "lon": -38.5180877
+  "RUA CONEGO PEREIRA, SALVADOR": {
+    "lat": -12.9669081,
+    "lon": -38.4939145,
+    "display_name": "Avenida Heitor Dias, Vila Alto da Boa Esperança, Macaúbas, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40302-070, Brasil"
   },
-  "RUA OSWALDO CRUZ, 564, RIO VERMELHO, SALVADOR - BA, 41940-000": {
-    "lat": -13.0124787,
-    "lon": -38.4853958
+  "40155-250": {
+    "lat": -13.0060491,
+    "lon": -38.5175916,
+    "display_name": "40155-250, Ondina, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
   },
-  "VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMÕES FILHO, SIMOES FILHO - BA, 43700-000": {
+  "41940-000": {
+    "lat": -13.0127085,
+    "lon": -38.4852717,
+    "display_name": "41940-000, Rio Vemelho, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41750-230": {
+    "lat": -12.9838513,
+    "lon": -38.4355683,
+    "display_name": "41750-230, Jardim Armação, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40140-241": {
+    "lat": -13.0051735,
+    "lon": -38.5293523,
+    "display_name": "40140-241, Barra, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40110-100": {
+    "lat": -12.9942283,
+    "lon": -38.5220785,
+    "display_name": "40110-100, Edifício Centaurio, Canela, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40130-001": {
+    "lat": -12.9998975,
+    "lon": -38.5306596,
+    "display_name": "40130-001, Barra, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41600-090": {
+    "lat": -12.9363197,
+    "lon": -38.3317588,
+    "display_name": "41600-090, Stella Maris, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40150-140": {
+    "lat": -12.9998609,
+    "lon": -38.4873307,
+    "display_name": "40150-140, Villaggio Panambi, Horto Florestal, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41815-060": {
+    "lat": -30.8100681,
+    "lon": -53.9072475,
+    "display_name": "060, Vila Poty Medeiros, Lavras do Sul, Região Geográfica Imediata de São Gabriel - Caçapava do Sul, Região Geográfica Intermediária de Santa Maria, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "RUA ANISIO TEIXEIRA, SALVAODR": {
     "lat": null,
     "lon": null
   },
-  "VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMÕES FILHO, SIMOES FILHO - BA, 43700-000 - BA": {
+  "RUA ANISIO TEIXEIRA, SALVADIR": {
     "lat": null,
     "lon": null
   },
-  "VA DE PENETRACAO IV SN GALPAO REDEMIX CIA SUL/SIMÕES FILHO, SIMOES FILHO - BA, 43700-000, SIMÕES FILHO - BA": {
-    "lat": null,
-    "lon": null
+  "RUA ANISIO TEIXEIRA, SALVADOR": {
+    "lat": -12.9952434,
+    "lon": -38.4642962,
+    "display_name": "Rua Anísio Teixeira, Itaigara, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41825-905, Brasil"
   },
-  "RUA PROFESSOR SABINO SILVA, 607, JARDIM APIPEMA, SALVADOR - BA, 40155-250": {
-    "lat": -13.0045035,
-    "lon": -38.5179422
+  "41900-325": {
+    "lat": -30.5327781,
+    "lon": -52.5223971,
+    "display_name": "325, Nossa Senhora Conceição, Encruzilhada do Sul, Região Geográfica Intermediária de Santa Cruz do Sul - Lajeado, Rio Grande do Sul, Região Sul, Brasil"
   },
-  "AV SIMON BOLIVAR, 1 -A, SN, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-230": {
-    "lat": null,
-    "lon": null
+  "AVENIDA MANOEL DIAS DA SILVA, PITUBA": {
+    "lat": -13.0049147,
+    "lon": -38.4564051,
+    "display_name": "Avenida Manoel Dias da Silva, Pituba, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40830-000, Brasil"
   },
-  "AV SIMON BOLIVAR, 1 -A, SN, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-230 - BA": {
-    "lat": null,
-    "lon": null
+  "41750-010": {
+    "lat": -30.8116921,
+    "lon": -53.8982501,
+    "display_name": "010, Vila Poty Medeiros, Lavras do Sul, Região Geográfica Imediata de São Gabriel - Caçapava do Sul, Região Geográfica Intermediária de Santa Maria, Rio Grande do Sul, Região Sul, Brasil"
   },
-  "AV SIMON BOLIVAR, 1 -A, SN, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-230, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
+  "RUA MELVIN JONES": {
+    "lat": -23.6618599,
+    "lon": -46.5390624,
+    "display_name": "Rua Melvin Jones, Jardim Bela Vista, Santo André, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 09041-000, Brasil"
   },
-  "RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, BARRA SALVADOR - BA, 40140-241": {
-    "lat": null,
-    "lon": null
+  "RUA MELVIN JONES SALVADOR": {
+    "lat": -12.9870568,
+    "lon": -38.4362298,
+    "display_name": "Rua Melvin Jones, Jardim Armação, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41750-240, Brasil"
   },
-  "RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, BARRA SALVADOR - BA, 40140-241 - BA": {
-    "lat": null,
-    "lon": null
+  "41650-195": {
+    "lat": -12.9409929,
+    "lon": -38.378494,
+    "display_name": "41650-195, Condomínio Colina de Piatã, Piatã, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
   },
-  "RUA MARQUES DE CARAVELAS, 187, ZZ AP-0187, BARRA SALVADOR - BA, 40140-241, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
+  "42702-400": {
+    "lat": -24.2730562,
+    "lon": -53.8377337,
+    "display_name": "400, Santa Mônica, Bela Vista, Perímetro Urbano, Palotina, Região Geográfica Imediata de Toledo, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, Brasil"
   },
-  "AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, CANELA SALVADOR - BA, 40110-100": {
-    "lat": null,
-    "lon": null
-  },
-  "AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, CANELA SALVADOR - BA, 40110-100 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV REITOR MIGUEL CALMON, 2005, ZZ AP-2005, CANELA SALVADOR - BA, 40110-100, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV SETE DE SETEMBRO 1111 -A, DOIS DE JULHO, SALVADOR - BA, 40130-001": {
-    "lat": null,
-    "lon": null
-  },
-  "AV SETE DE SETEMBRO 1111 -A, DOIS DE JULHO, SALVADOR - BA, 40130-001 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV SETE DE SETEMBRO 1111 -A, DOIS DE JULHO, SALVADOR - BA, 40130-001, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AL PRAIA DE GUARATUBA 9997, STELLA MARIS, SALVADOR - BA, 41600-090": {
-    "lat": -12.9403292,
-    "lon": -38.3391959
-  },
-  "RUA DA PAZ, 41, ZY AP-0041, GRAÇA SALVADOR - BA, 40150-140": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA DA PAZ, 41, ZY AP-0041, GRAÇA SALVADOR - BA, 40150-140 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA DA PAZ, 41, ZY AP-0041, GRAÇA SALVADOR - BA, 40150-140, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "ESTRADA DO COCO, KM 42, PRAIA DE GUARAJUBA, CAMAÇARI - BA, CEP 42800-970": {
-    "lat": null,
-    "lon": null
-  },
-  "ESTRADA DO COCO, KM 42, PRAIA DE GUARAJUBA, CAMAÇARI - BA, CEP 42800-970 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "ESTRADA DO COCO, KM 42, PRAIA DE GUARAJUBA, CAMAÇARI - BA, CEP 42800-970, CAMAÇARI - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. ANÍSIO TEIXEIRA, 347 - ITAIGARA, SALVADOR - BA, 41815-060": {
-    "lat": -12.9938146,
-    "lon": -38.463699
-  },
-  "AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, PITUBA, SALVADOR - BA, 41900-325": {
-    "lat": null,
-    "lon": null
-  },
-  "AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, PITUBA, SALVADOR - BA, 41900-325 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV MANOEL DIAS DA SILVA, 1175, ZZ AP-1175, PITUBA, SALVADOR - BA, 41900-325, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA MELVIN JONES, 273, AP-0273, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-010": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA MELVIN JONES, 273, AP-0273, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-010 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA MELVIN JONES, 273, AP-0273, JARDIM ARMAÇÃO, SALVADOR - BA, 41750-010, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. DA GRATIDÃO, S/N - PIATÃ, SALVADOR - BA, 41650-195": {
-    "lat": null,
-    "lon": null
-  },
-  "R. DA GRATIDÃO, S/N - PIATÃ, SALVADOR - BA, 41650-195 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "R. DA GRATIDÃO, S/N - PIATÃ, SALVADOR - BA, 41650-195, SALVADOR - BA": {
-    "lat": -12.9394444,
-    "lon": -38.378079
-  },
-  "AV SANTOS DUMONT, 4360 -C, LAURO DE FREITAS - BA, 42702-400": {
+  "AVENIDA SANTOS DUMONT, LAURO DE FREITAS": {
     "lat": -12.9022274,
-    "lon": -38.3345982
+    "lon": -38.3345982,
+    "display_name": "Avenida Santos Dumont, Centro, Lauro de Freitas, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 42700-170, Brasil"
   },
-  "AV IBIRAPITANGA 374 -A, BOM JUÁ, SALVADOR - BA, 40388-000": {
+  "AVENIDA IBIRAPITANGA BOM JUA": {
     "lat": null,
     "lon": null
   },
-  "AV IBIRAPITANGA 374 -A, BOM JUÁ, SALVADOR - BA, 40388-000 - BA": {
+  "AVENIDA IBIRAPITANGA BOM JUA SALVADOR": {
     "lat": null,
     "lon": null
   },
-  "AV IBIRAPITANGA 374 -A, BOM JUÁ, SALVADOR - BA, 40388-000, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
+  "AVENIDA IBIRAPITANGA SALVADOR": {
+    "lat": -12.9599818,
+    "lon": -38.402065,
+    "display_name": "Avenida Ibirapitanga, Patamares, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40680-050, Brasil"
   },
-  "AV OCTAVIO MANGABEIRA 1024, PIATÃ, SALVADOR - BA, 41650-000": {
-    "lat": -12.9618184,
-    "lon": -38.3995881
+  "41650-000": {
+    "lat": -15.6105021,
+    "lon": -56.1544918,
+    "display_name": "Coca-Cola Renosa Ind Bras de Bebidas, 1080, Petrópolis, Várzea Grande, Região Geográfica Imediata de Cuiabá, Região Metropolitana do Vale do Rio Cuiabá, Região Geográfica Intermediária de Cuiabá, Mato Grosso, Região Centro-Oeste, 78110-000, Brasil"
   },
-  "RUA CEARÁ , PITUBA SALVADOR - BA, 41830-210": {
+  "AVENIDA OCTAVIO MANGABEIRA PIATA": {
+    "lat": -12.9622794,
+    "lon": -38.3997449,
+    "display_name": "Avenida Octávio Mangabeira, Patamares, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41613-058, Brasil"
+  },
+  "41830-210": {
+    "lat": -21.6909906,
+    "lon": -45.2636756,
+    "display_name": "210, Chácara das Rosas, Três Corações, Região Geográfica Imediata de Três Corações, Região Geográfica Intermediária de Varginha, Minas Gerais, Região Sudeste, 37410-000, Brasil"
+  },
+  "RUA CEARÁ SALVADOR": {
     "lat": -13.0038017,
-    "lon": -38.4619459
+    "lon": -38.4619459,
+    "display_name": "Rua Ceará, Pituba, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41830-125, Brasil"
   },
-  "AV SANTOS DUMONT, 7650, PORTÃO LAURO DE FREITAS - BA, 42700-000": {
+  "48280-000": {
+    "lat": -12.5685666,
+    "lon": -38.0260465,
+    "display_name": "48280-000, Açu da Torre, Mata de São João, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41600-170": {
+    "lat": -30.5424643,
+    "lon": -52.5282086,
+    "display_name": "170, Aldemar Xavier dos Santos, Encruzilhada do Sul, Região Geográfica Intermediária de Santa Cruz do Sul - Lajeado, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  "ESTRADA DO FLAMENGO, STELLA MARIS SALVADOR": {
     "lat": null,
     "lon": null
   },
-  "AV SANTOS DUMONT, 7650, PORTÃO LAURO DE FREITAS - BA, 42700-000 - BA": {
+  "STELLA MARIS SALVADOR": {
+    "lat": -12.9377602,
+    "lon": -38.3346758,
+    "display_name": "Stella Maris, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "41820-420": {
+    "lat": -12.9819935,
+    "lon": -38.4572633,
+    "display_name": "41820-420, Caminho das Árvores, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40290-350": {
+    "lat": -23.2136467,
+    "lon": -46.8300319,
+    "display_name": "350, Jardim do Lar, Várzea Paulista, Região Imediata de Jundiaí, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, Brasil"
+  },
+  "AVENIDA VASCO DA GAMA, SALVADOR": {
+    "lat": -12.9805051,
+    "lon": -38.5033452,
+    "display_name": "Avenida Vasco da Gama, Tororó, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40040-300, Brasil"
+  },
+  "41750-240": {
+    "lat": -12.9890952,
+    "lon": -38.4369727,
+    "display_name": "41750-240, Jardim Armação, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "40301-110": {
+    "lat": -12.6610786,
+    "lon": -38.6627301,
+    "display_name": "40301-110, Monte Recôncavo, São Francisco do Conde, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, Brasil"
+  },
+  "44082-225": {
+    "lat": -7.9206919,
+    "lon": -34.9333595,
+    "display_name": "225, Caetés I, Abreu e Lima, Região Geográfica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, Brasil"
+  },
+  "AVENIDA NOIDE FERREIRA DE CERQUEIRA, FEIRA DE SANTANA": {
     "lat": null,
     "lon": null
   },
-  "AV SANTOS DUMONT, 7650, PORTÃO LAURO DE FREITAS - BA, 42700-000, LAURO DE FREITAS - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV. DO FAROL, S/N, PRAIA DO FORTE, MATA DE SÃO JOÃO - BA, 48280-000": {
-    "lat": -12.5777098,
-    "lon": -38.0137687
-  },
-  "ET DO FLAMENGO, 100 AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170": {
-    "lat": null,
-    "lon": null
-  },
-  "ET DO FLAMENGO, 100 AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "ET DO FLAMENGO, 100 AP-0100, STELLA MARIS, SALVADOR - BA - CEP 41600170, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "RUA RAUL LEITE, 46 - VILA LAURA, SALVADOR - BA, 40270-010": {
-    "lat": -12.9732242,
-    "lon": -38.4924146
-  },
-  "AL DOS SOMBREIROS 170, PITUBA, SALVADOR - BA, 41820-420": {
-    "lat": null,
-    "lon": null
-  },
-  "AL DOS SOMBREIROS 170, PITUBA, SALVADOR - BA, 41820-420 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AL DOS SOMBREIROS 170, PITUBA, SALVADOR - BA, 41820-420, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "VA PERIFERICA I 4, CIA SUL, SIMÕES FILHO - BA - 43700-000": {
-    "lat": null,
-    "lon": null
-  },
-  "VA PERIFERICA I 4, CIA SUL, SIMÕES FILHO - BA - 43700-000 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "VA PERIFERICA I 4, CIA SUL, SIMÕES FILHO - BA - 43700-000, SIMÕES FILHO - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV VASCO DA GAMA 864, ACUPE, SALVADOR - BA, 40290-350": {
-    "lat": -12.9968576,
-    "lon": -38.493369
-  },
-  "RUA AMAZONAS 1541, PITUBA, SALVADOR - BA - 41830-380": {
-    "lat": -13.0034354,
-    "lon": -38.4585785
-  },
-  "AV OCTAVIO MANGABEIRA, 4435, JARDIM ARMAÇÃOSALVADOR - BA, 41750-240": {
-    "lat": null,
-    "lon": null
-  },
-  "AV OCTAVIO MANGABEIRA, 4435, JARDIM ARMAÇÃOSALVADOR - BA, 41750-240 - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AV OCTAVIO MANGABEIRA, 4435, JARDIM ARMAÇÃOSALVADOR - BA, 41750-240, SALVADOR - BA": {
-    "lat": null,
-    "lon": null
-  },
-  "AVENIDA JURACY MAGALHÃES JÚNIOR, 1034, HORTO FLORESTAL, SALVADOR - BA, 40301-110": {
-    "lat": -12.9996016,
-    "lon": -38.4818353
-  },
-  "AV NOIDE FERREIRA DE CERQUEIRA, 7450, LGA SALGADA, FEIRA DE SANTANA - BA, 44082-225": {
-    "lat": null,
-    "lon": null
-  },
-  "AV NOIDE FERREIRA DE CERQUEIRA, 7450, LGA SALGADA, FEIRA DE SANTANA - BA, 44082-225 - BA": {
-    "lat": null,
-    "lon": null
+  "LAGOA SALGADA, FEIRA DE SANTANA": {
+    "lat": -12.1696859,
+    "lon": -38.9367713,
+    "display_name": "Lagoa Salgada, Mangabeira, Jaíba, Feira de Santana, Região Geográfica Imediata de Feira de Santana, Região Metropolitana de Feira de Santana, Região Geográfica Intermediária de Feira de Santana, Bahia, Região Nordeste, Brasil"
   }
 }
